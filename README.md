@@ -8,7 +8,6 @@
 - **Phone**: 07024566817
 - **Location**: Indore, MP, India- 452010
 - **LinkedIn**: [LinkedIn](www.linkedin.com/in/prashantvishwakarmajavafresherorentryleveldeveloper)
--
 ---
 
 ## Education
