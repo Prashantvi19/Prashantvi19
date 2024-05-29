@@ -17,8 +17,7 @@
 CGPA: 6.75  
 
 **Nalanda Vidhyapeeth Higher Secondary School**, Gadarwara, Madhya Pradesh  
-*Degree in Class 12th* | July 2018 - July 2019  
-Percentage: 61%
+*Degree in Class 12th* | July 2018 - July 2019 | 1st Division.
 
 ---
 
