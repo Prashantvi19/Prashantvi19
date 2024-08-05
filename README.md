@@ -5,7 +5,7 @@
 ## Contact Information
 
 - **Email**: [prashantvish19@gmail.com](mailto:prashantvish19@gmail.com)
-- **Phone**: 07024566817
+- **Phone**: 6264184115
 - **Location**: Indore, MP, India- 452010
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/prashantvi/)
 ---
@@ -47,7 +47,7 @@ CGPA: 6.75
 
 ### My Shopping 
 - **Technologies**: JSP/Servlet and JDBC, MySQL, HTML, CSS, Bootstrap
-## [Source Code - GitHub](https://github.com/your-repo-link)
+-**Source Code**: -[GitHub](https://github.com/your-repo-link)
 - **Description**:
 - This e-commerce project offers administrators robust tools for managing products and orders, while providing users with a seamless shopping experience including easy product search, cart management, and secure transactions.
 
