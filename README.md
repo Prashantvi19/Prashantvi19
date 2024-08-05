@@ -47,7 +47,7 @@ CGPA: 6.75
 
 ### My Shopping 
 - **Technologies**: JSP/Servlet and JDBC, MySQL, HTML, CSS, Bootstrap
--**Source Code**: -[GitHub](https://github.com/your-repo-link)
+- **Source Code**: -[GitHub](https://github.com/your-repo-link)
 - **Description**:
 - This e-commerce project offers administrators robust tools for managing products and orders, while providing users with a seamless shopping experience including easy product search, cart management, and secure transactions.
 
