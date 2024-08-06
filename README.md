@@ -46,7 +46,7 @@ CGPA: 6.75
 ## Projects / Open-Source
 
 ### My Shopping 
-- **Technologies**: JSP/Servlet and JDBC, MySQL, HTML, CSS, Bootstrap | **Source Code**: -[GitHub](https://github.com/your-repo-link)
+- **Technologies**: JSP/Servlet and JDBC, MySQL, HTML, CSS, Bootstrap | **Source Code**: -[GitHub](https://github.com/Prashantvi19/My-Shopping.git)
 - **Description**:
   - This e-commerce project offers administrators robust tools for managing products and orders, while providing users with a seamless shopping experience including easy product search, cart management, and secure transactions.
 
