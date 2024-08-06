@@ -46,16 +46,13 @@ CGPA: 6.75
 ## Projects / Open-Source
 
 ### My Shopping 
-- **Technologies**: JSP/Servlet and JDBC, MySQL, HTML, CSS, Bootstrap
-- **Source Code**: -[GitHub](https://github.com/your-repo-link)
+- **Technologies**: JSP/Servlet and JDBC, MySQL, HTML, CSS, Bootstrap | **Source Code**: -[GitHub](https://github.com/your-repo-link)
 - **Description**:
 - This e-commerce project offers administrators robust tools for managing products and orders, while providing users with a seamless shopping experience including easy product search, cart management, and secure transactions.
 
-- ** Admin Features**:
-- Admin can add and edit products, Manage orders (received, canceled, delivered), Oversee feedback and inquiries.
+- **Admin Features**: Admin can add and edit products, Manage orders (received, canceled, delivered), Oversee feedback and inquiries.
 
-- **User Features**:
-- Users can search products, Add to cart, Manage quantities, Order, Manage addresses, View/print invoices, Update profile, Reset passwords.
+- **User Features**: Users can search products, Add to cart, Manage quantities, Order, Manage addresses, View/print invoices, Update profile, Reset passwords.
 
 ### Online Examination
 
