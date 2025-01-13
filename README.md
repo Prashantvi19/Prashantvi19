@@ -36,9 +36,9 @@ CGPA: 6.75
 
 ## Skills
 
-- **Programming Languages**: Core Java, PHP, JavaScript
-- **Libraries/Frameworks**: Node.js, React.js, Laravel, BootStrap, JQuery, AJAX, HTML, CSS
-- **Tools / Platforms**: VS Code, Eclipse ide
+- **Programming Languages**: Core Java, OOPs, J2EE (JSP/Servlet, JDBC and JPA)., PHP, JavaScript
+- **Libraries/Frameworks**: Spring and Spring Boot,hibernate, Thymeleaf, Lombok, Node.js, React.js, Laravel, BootStrap, JQuery, AJAX, HTML, CSS
+- **Tools / Platforms**: VS Code, Eclipse ide,Spring Tool Suit
 - **Databases**: MySQL, MongoDB
 
 ---
