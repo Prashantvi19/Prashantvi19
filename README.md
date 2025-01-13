@@ -45,7 +45,10 @@ CGPA: 6.75
 
 ## Projects / Open-Source
 ### CURD Opertions:
--**Description**: The project involves CRUD operations using Web Pages and RESTful Web Services, utilizing Spring Boot, Spring Data JPA, Lombok, Thymeleaf, and Bootstrap.
+- **Description**: The project involves CRUD operations using Web Pages and RESTful Web Services, utilizing Spring Boot, Spring Data JPA, Lombok, Thymeleaf, and Bootstrap.
+  
+### CURD Opertions:
+- **Description**: This project implements CRUD operations using Spring MVC, Hibernate JPA, JSP, and Bootstrap to create web pages and RESTful services for managing data.
 
 ### My Shopping 
 - **Technologies**: JSP/Servlet and JDBC, MySQL, HTML, CSS, Bootstrap | **Source Code**: -[GitHub](https://github.com/Prashantvi19/My-Shopping.git)
