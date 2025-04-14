@@ -4,9 +4,9 @@
 
 ## Contact Information
 
-- **Email**: [prashantvish19@gmail.com](mailto:prashantvish19@gmail.com)
-- **Phone**: 6264184115
-- **Location**: Indore, MP, India- 452010
+- **Email**: [**********@gmail.com](mailto:*************@gmail.com)
+- **Phone**: *******************
+- **Location**: *****, **, **- ****
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/prashantvi/)
 ---
 
