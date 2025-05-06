@@ -17,7 +17,7 @@
 1st Division. 
 
 **Nalanda Vidhyapeeth Higher Secondary School**, Gadarwara, Madhya Pradesh  
-*Degree in Class 12th* 
+*Degree in Class 12th* |
 1st Division.
 
 ---
