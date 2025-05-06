@@ -13,11 +13,11 @@
 ## Education
 
 **Shri Vaishnav Vidyapeeth Vishwavidyalaya**, Indore, Madhya Pradesh  
-*Information Technology B.Tech* | July 2019 - July 2023  
-CGPA: 6.75  
+*Information Technology B.Tech* | 
+1st Division. 
 
 **Nalanda Vidhyapeeth Higher Secondary School**, Gadarwara, Madhya Pradesh  
-*Degree in Class 12th* | July 2018 - July 2019  
+*Degree in Class 12th* 
 1st Division.
 
 ---
@@ -44,10 +44,10 @@ CGPA: 6.75
 ---
 
 ## Projects / Open-Source
-### CURD Opertions:
+### Spring Boot(CURD Opertions): | Spring Boot, Spring Data JPA, Lombok, Thymeleaf, Bootstrap, Tomcat
 - **Description**: The project involves CRUD operations using Web Pages and RESTful Web Services, utilizing Spring Boot, Spring Data JPA, Lombok, Thymeleaf, and Bootstrap.
   
-### CURD Opertions:
+### Spring MVC(CURD Opertions): Spring MVC, Hibernate, MySQL, JSP, Bootstrap, Tomcat Web Server
 - **Description**: This project implements CRUD operations using Spring MVC, Hibernate JPA, JSP, and Bootstrap to create web pages and RESTful services for managing data.
 
 ### My Shopping 
