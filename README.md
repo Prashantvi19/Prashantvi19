@@ -24,7 +24,7 @@
 
 ## Experience
 
-**SRB IT Solution**, Indore, MP, India | Jan 2023 - July 2023
+**SRB IT Solution**, Indore, MP, India 
 
 - Developed PHP-based web applications using Laravel framework.
 - Managed MySQL databases and integrated RESTful APIs.
